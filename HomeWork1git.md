@@ -71,3 +71,5 @@
 Чтобы перейти к новой ветке, необходимо ввести `git checkout` + `name_branch`.
 
 > В нашем случае это `git checkout homework2`.
+> Для конфликта создам ветку `conflict`.
+> X=50, Y=50, Sum=X+Y=100.
