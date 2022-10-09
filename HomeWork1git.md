@@ -73,4 +73,4 @@
 > В нашем случае это `git checkout homework2`.
 
 Для конфликта создам ветку `conflict`.
-X=50, Y=50, Sum=X+Y=100.
+X=20, Y=20, Sum=X+Y=40.
