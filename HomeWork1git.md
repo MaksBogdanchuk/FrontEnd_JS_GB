@@ -71,3 +71,5 @@
 Чтобы перейти к новой ветке, необходимо ввести `git checkout` + `name_branch`.
 
 > В нашем случае это `git checkout homework2`.
+
+Наименование ветки можно изменить с помощью комманды `git branch -m (NewNameBranch)`.
